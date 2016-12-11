@@ -2,5 +2,6 @@ programming
   programming is my hobby.I know c,javascript,php etc
 cricket
 reading
+   Reading is my another hobby.I read harry potter
 cycling
 travelling
